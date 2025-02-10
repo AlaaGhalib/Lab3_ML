@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+models/*
+!models/.gitkeep
+raw_data/*
+!raw_data/.gitkeep
+lab3

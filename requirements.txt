@@ -1,0 +1,5 @@
+numpy # required by data-wrangler (feel free to remove it if you dont want it)
+pandas
+matplotlib
+scikit-learn
+seaborn
